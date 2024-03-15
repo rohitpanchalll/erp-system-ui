@@ -49,5 +49,5 @@ Recharts as a charting library for charts.
 
 ## Screenshots
 
-
+![screenshot](https://github.com/rohitpanchalll/erp-system-ui/assets/98310493/75e52772-cfe3-42ab-885d-c8ee2bcfeb7d)
 
