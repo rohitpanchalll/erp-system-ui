@@ -1,7 +1,7 @@
 
-# ETNT Assessment
+# ENTNT Assessment
 
-This is a repository that contains my assessment submission for ETNT.
+This is a repository that contains my assessment submission for ENTNT.
 
 It includes a ERP System UI designed in React + Vite.
 
