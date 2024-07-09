@@ -1,7 +1,7 @@
 
-# ENTNT Assessment
+# ERP System UI starter
 
-This is a repository that contains my assessment submission for ENTNT.
+This is a repository that contains a prebuild UI for an ERP system.
 
 It includes a ERP System UI designed in React + Vite.
 
